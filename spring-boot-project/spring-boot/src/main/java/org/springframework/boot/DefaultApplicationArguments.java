@@ -27,6 +27,7 @@ import org.springframework.util.Assert;
 
 /**
  * Default implementation of {@link ApplicationArguments}.
+ * 保存应用启动是输入的参数信息。
  *
  * @author Phillip Webb
  * @since 1.4.1
